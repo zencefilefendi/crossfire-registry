@@ -5,8 +5,78 @@
     "sha512": "2e8b746c51132f933cc526db661c2cb8cee889f390e3ce19dabbad1a2e6e13bed7a60f08809282df8d43c1c528a8ce7ce28e9e39fea8c16fd3fcda5604ae0c85",
     "blake3": "388569808c00fa8cd777a7fbe8a946114e9d0d7b78b2c62f5db36f61a489765c",
     "size_bytes": 1637343,
-    "signed_at": 1780084762,
+    "signed_at": 1780087222,
     "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
-    "signature_b64": "K1MTWsRogLkfVkyvxkKf82sI0zRfnl7FcGeQ724CKYSizPpN64WgLL0ZQFh95jBWhmvLHv5DP6Up78dWrFg5Bg=="
+    "signature_b64": "vLjpfiTa4Zs9t7B72IqoNitnII16uB33sh4CfEDiO89h0SkxW/006EEqFFTJ9K6XFhwkuo3HWA29L8yPqEaYBQ=="
+  },
+  {
+    "url_pattern": "https://download.ccleaner.com/ccsetup*.exe",
+    "sha256": "9bd6c5d7d1963c728809fa0150ec876251aa7541bb95f2e4dc9b13189e2b6272",
+    "sha512": "75602aa213b0a2b685bfc316a3e92697f6c8c5e474ca2724ad70c01b17b0a7a5c85c03b6ab778339f872a658adfde7cf6a689912034acec7ce312b1e80e2ec6b",
+    "blake3": "3601987dc21d59f857434d95c4f938a680f83cecfb7d4289d65ebad466f9bc72",
+    "size_bytes": 83659952,
+    "signed_at": 1780087224,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "nT8VYn3BocKGmz/4v3+vSNZPqIj9iTWRCtMQz8WZyHrbloY5YOa+e8FM5WXiMPLwJHvyT3Pr50uCJA0Qf7o9Cw=="
+  },
+  {
+    "url_pattern": "https://get.geo.opera.com/pub/opera/desktop/*/win/*.exe",
+    "sha256": "03c2589e16cd6e41d438d2ff8edcaa3c5b22ebee6a1c64e0f00479f40eabb512",
+    "sha512": "c0fd02c9c1b7345ba73941250b9072f27eadea2301e950c070b861077510b1bc948a601db5b7aa228256ba59d99188d9d4d53a96f922e3ad968ea2a713934855",
+    "blake3": "cc56ed1a4d2b4c2e045920e44d7caed8942b1bbe22e1ef7fdb1f1d7b8ac8aa91",
+    "size_bytes": 122758584,
+    "signed_at": 1780087235,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "U4DkC6BDDbNO1L2Ska7efn/SfW0WzO4QM4REEpxUXJ1oI2WJz9LMJcu/Vno5STcYqLi9s1snqx7I16N21O65BA=="
+  },
+  {
+    "url_pattern": "https://dist.torproject.org/torbrowser/*/tor-browser-windows-x86_64-portable-*.exe",
+    "sha256": "f4048faea4c26e0241104ebb6cb0979937532961737ea5d87e5387196a8116ae",
+    "sha512": "2aaef58efe0adf9c6a8bfca7494e0e1af856561ffaa5d42b44ef5458ddc91a634e973740fdd5a365bdfa0d659d8ebc872a1e8e64fc3c118fbf26ee59b8955f2c",
+    "blake3": "bb9ec54072ea4942fe06c65ba2b5fb57289b2ced6295da1a1338f8c1ccefb26f",
+    "size_bytes": 113458576,
+    "signed_at": 1780087229,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "XvKWN8NaiRCs/zgPDWQfkXhm3DhPN8xRTioSDYKfYvGyJoXJzHlAtWlyP4fssSVJIviMLA8vXAjrLgd4GQ3GAA=="
+  },
+  {
+    "url_pattern": "https://updates.signal.org/desktop/signal-desktop-win-*.exe",
+    "sha256": "d2e191d0af6a564da6e09a530da73907fbc795aadec06932c24719a72c7e4253",
+    "sha512": "a994ed5bd3a9d48d4457b72018cd6325526a76f329d5546e5decef4b60760d75c5475a5a7a54117d6f3312ea0714a95fb20f614a091f9e955b3ae56ef548ea09",
+    "blake3": "548dcf87e7a3bc41512cda9dd39d235d7344735d1ca97ff653dedcf33277236d",
+    "size_bytes": 132818072,
+    "signed_at": 1780087234,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "UKCjxt5NcYVyn7nPaTIRDEr3AjnloHZnnUCDJyC9KQKlPzHfqjNCLwONSj6Aj1JSYriLx5E2JpCTi1uvO4TbCg=="
+  },
+  {
+    "url_pattern": "https://get.videolan.org/vlc/*/win64/vlc-*-win64.exe",
+    "sha256": "9742689a50e96ddc04d80ceff046b28da2beefd617be18166f8c5e715ec60c59",
+    "sha512": "1a8ff18e29514c48b29fab5ad419b506610c462c09891b4ba6dc0cee550d05eed03bed8d018b9bd61b3d81e1848da7845d53c1b01a508dd87381791541a44f2c",
+    "blake3": "d7779947908f1d5c1f27ab026a6e6cdd8ec799fdb202384bf6a31350c1fd072a",
+    "size_bytes": 44943296,
+    "signed_at": 1780087232,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "Wbz3SUxnQY1yzD8662S/HPzaKdMwma7L2dDPW5jVtxLMk5Jg5vs1/fM0eRgt9hYJpAw5QJzFWzyHQGNF0ntKCw=="
+  },
+  {
+    "url_pattern": "https://www.rarlab.com/rar/winrar-*.exe",
+    "sha256": "31f7ba37180f820313b2d32e76252344598409cb932109dd84a071cd58b64aa6",
+    "sha512": "61daee2ce82c3b8e79f7598a79d72e337220ced7607e3ed878a3059ac03257542147dbd377e902cc95f04324e2fb7c5e07d1410f0a1815d5a05c5320e5715ef6",
+    "blake3": "f33110f58a89c128f844b9048945326a7bf791a32ecd2f2d9ad7a66235196258",
+    "size_bytes": 3912088,
+    "signed_at": 1780087234,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "Dl9QcE3CnhH0vv3Iv0h1eslB84d6N1vrR+W7K1rDxHHwv+V6WphLxpY/LdqTEgbb0wA3RQBajOG5+E2iuNCWDw=="
+  },
+  {
+    "url_pattern": "https://install.avcdn.net/*/avast_free_antivirus_setup*.exe",
+    "sha256": "1cace72163eece6dee2c99fb00d235ef9f020dbfb1cc57cbf23af6a36a8af117",
+    "sha512": "414c49eab6cbbe7bb018ddaae62c341eca550603c544f0b6ee83a3f7d41493864e8cd9e79c64ba7b34cd092ad02da0b3e8ff551219498f6ca4c715bb706f0227",
+    "blake3": "f75eac8fb2d98ceccaf2c8a4d2f910b48dda4a5b4f9ba11164926259feae843c",
+    "size_bytes": 10874728,
+    "signed_at": 1780087235,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "SZzfsuR1C8NggfOkJIV8iwIEIikCwrJqwDIa0BOQrxBWwDBAjS3/WvgTojLcSFd+A7dxuvsXJEREi/UyDBUvCg=="
   }
 ]
