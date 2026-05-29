@@ -1,0 +1,12 @@
+[
+  {
+    "url_pattern": "https://www.7-zip.org/a/7z*.exe",
+    "sha256": "bdd1a33de78618d16ee4ce148b849932c05d0015491c34887846d431d29f308e",
+    "sha512": "2e8b746c51132f933cc526db661c2cb8cee889f390e3ce19dabbad1a2e6e13bed7a60f08809282df8d43c1c528a8ce7ce28e9e39fea8c16fd3fcda5604ae0c85",
+    "blake3": "388569808c00fa8cd777a7fbe8a946114e9d0d7b78b2c62f5db36f61a489765c",
+    "size_bytes": 1637343,
+    "signed_at": 1780084762,
+    "signer_pubkey_b64": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUNvd0JRWURLMlZ3QXlFQUJmVUJldldsUWNLcTR2eHo5Mzh6ZGpsNk9NcFg3dnFIOXlQUTJ3Z0NacGc9Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=",
+    "signature_b64": "K1MTWsRogLkfVkyvxkKf82sI0zRfnl7FcGeQ724CKYSizPpN64WgLL0ZQFh95jBWhmvLHv5DP6Up78dWrFg5Bg=="
+  }
+]

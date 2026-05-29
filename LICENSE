@@ -1,0 +1,20 @@
+CROSSFIRE Registry — License
+
+This repository contains cryptographic hash values (SHA-256, SHA-512) and
+digital signatures for publicly distributed software binaries.
+
+Hash values are mathematical facts derived from publicly available files.
+Their publication for security research and defensive purposes is protected
+under applicable law in most jurisdictions.
+
+USE:
+  - Permitted: defensive security tooling, research, education, journalism
+  - Permitted: verifying download integrity of software you are entitled to use
+  - Not permitted: circumventing software licensing or access controls
+  - Not permitted: any offensive use
+
+THE REGISTRY IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+The authors make no guarantee of completeness or currency of hash values.
+Always verify critical software through multiple independent channels.
+
+© 2026 CROSSFIRE Project
